@@ -1,0 +1,5 @@
+{
+  "name": "Image Ratio Converter",
+  "description": "Convert images to 1:1 square aspect ratio using Gemini AI",
+  "requestFramePermissions": []
+}
